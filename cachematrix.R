@@ -32,6 +32,7 @@ cacheSolve <- function(x, ...) {
         m
 }
 
+## test with example
 
 matrix_example <- matrix(c(1:4), nrow = 2, ncol = 2)
 
